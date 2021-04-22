@@ -1,0 +1,286 @@
+[33mcommit baba0a566e590d3c19c80bb903d65ffb89446a46[m[33m ([m[1;36mHEAD -> [m[1;32madd-anushas-work[m[33m)[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Fri Mar 19 18:13:19 2021 +0530
+
+    Restructured deliveries etl scripts
+
+[33mcommit 0d351ccbac7375afb5eaee26733588358edf3115[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Fri Mar 19 17:33:54 2021 +0530
+
+    Restructured deliveries etl scripts
+
+[33mcommit 9cc4c349a385b779390c2617ba08aa1847617e01[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: e6bf5ac d6eb50b
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 17 10:23:13 2021 +0530
+
+    Merge branch 'master' of https://github.com/amusenow/dw-etl into add-anushas-work
+
+[33mcommit e6bf5acb66cb803d86d1a708b48cb912c7e97ec1[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 17 10:22:43 2021 +0530
+
+    fixed issue with last time modified
+
+[33mcommit d6eb50b5cba7d5530f4d09ffb0e96f8c3f505a2d[m
+Merge: 91eddab e3f8a5a
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Mon Mar 15 20:16:00 2021 +0530
+
+    Merge pull request #2 from amusenow/add-anushas-work
+    
+    fix stg_all_customers
+
+[33mcommit e3f8a5afff8c198de71dd89b26072cef7eaa065c[m
+Author: anusha-suresh-affine <anusha.suresh@affineanalytics.com>
+Date:   Mon Mar 15 20:07:16 2021 +0530
+
+    fix all customers
+
+[33mcommit 91eddab8bd90c9bb05a2098301ac31c7c12aa26e[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Mon Mar 15 13:57:16 2021 +0530
+
+    arranged delivery master etl models pertaining to standers decided by team
+
+[33mcommit 48da0d3c8aefd531205199f34da17ea33bf0767b[m
+Merge: 617e353 94243bb
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 17:33:40 2021 +0530
+
+    Merge pull request #1 from amusenow/add-anushas-work
+    
+    added secondary layer columns from treez
+
+[33mcommit 94243bb1f42ea3c8dd572a03daaa1d6d68f38780[m[33m ([m[1;31morigin/add-anushas-work[m[33m)[m
+Author: anusha-suresh-affine <anusha.suresh@affineanalytics.com>
+Date:   Fri Mar 12 12:47:56 2021 +0530
+
+    added secondary layer columns from treez
+
+[33mcommit 617e353015308c978e8fda05c82f6275c5c1529c[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 12:07:20 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit 0080a7d0a04309d4c325a314de8e396bb561b80d[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 12:07:02 2021 +0530
+
+    Create TRANSACTION_ITEMS_MASTER_DBT_FINAL12.sql
+
+[33mcommit 7b414561c863a5bd223eb9edcc2c2fc430af5a5e[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 11:57:18 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit dbce3d51a16e8d90d77bc1b2330b2f8fa8cee9e6[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 11:56:51 2021 +0530
+
+    Create TRANSACTION_ITEMS_MASTER_DBT_FINAL1.sql
+
+[33mcommit e9ba92d89b595f26b4d08913fca778e8b54a94e2[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Fri Mar 12 11:42:38 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit e010f0999d1016c1cad627c287b4b6e56c9f74ac[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 15:46:06 2021 +0530
+
+    Update deployment.yml
+    
+    trying full refresh to investigate disappearing tables - anusha
+
+[33mcommit 4128da99d1f6eb3cc02d1c99ed64d404fdc87cdf[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 14:20:06 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit ef095e8dfb1150081d246ff19177950b57fe16e5[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 14:19:22 2021 +0530
+
+    removed the duplications
+
+[33mcommit 12e5fc56a8a8a069ab570dde3cadb8022f98b02d[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 13:15:13 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit 9512a08a5a1980005056e61646690eeabb7435aa[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 13:10:49 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit 24007441e87ddb03d3c33d7515aac7af73582bc6[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 10 13:08:06 2021 +0530
+
+    grouping the duplicate rows
+
+[33mcommit cb0c6448d18e6fd3a5d92fe3ac6638b02e5f8c04[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Mon Mar 8 10:55:06 2021 +0530
+
+    using coalesce to pick default
+
+[33mcommit b6779f1cd91ab544b09f4f69412f9b2b39d16910[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 17:49:27 2021 +0530
+
+    Update TRANSACTION_ITEMS_MASTER_DBT_T.sql
+
+[33mcommit b54f37cc8f781e6dbc9f1dfea8fc79d9d820bc13[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 17:44:00 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit db835886b5c08bd26aeb134ba3f2a8af65be3788[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 17:43:16 2021 +0530
+
+    first
+
+[33mcommit 0fffb4c0e83ad93f33c63d17bd148d148c4a0e06[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 15:13:45 2021 +0530
+
+    Update TRANSACTION_ITEMS_MASTER_DBT.sql
+
+[33mcommit 58e63e8b421508c305aabfd600b4b837e09a2037[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 15:08:36 2021 +0530
+
+    Update TRANSACTION_ITEMS_MASTER_DBT.sql
+
+[33mcommit 566e5bac062f41d0f239e7fd11807b420cd17896[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 15:03:59 2021 +0530
+
+    inc_cond_3
+
+[33mcommit 68217fabd5f5df48943cb4f776fdbe41a79c4c2e[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 14:56:19 2021 +0530
+
+    incremental_condition_changed_2
+
+[33mcommit f089a9cd6c2b744f186615b4e071abc39ba1ea5e[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 14:52:41 2021 +0530
+
+    increment condition changed
+
+[33mcommit 4cf99d44be19dc87504161c830928b1a6e2e9dbf[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Fri Mar 5 12:58:54 2021 +0530
+
+    ensuring distinct rows in source
+
+[33mcommit cff7736d76c42c5b55fb4c44cf337d33374b3da2[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Thu Mar 4 13:15:48 2021 +0530
+
+    updates
+
+[33mcommit c8163d8d06248b287953e6ba3c4f9d005cd3e179[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Thu Mar 4 13:06:07 2021 +0530
+
+    updates
+
+[33mcommit 1b8146293c223c3b6250d6c2a4dd41560a4d3bb9[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: 492d269 fa11ade
+Author: bhaskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 3 16:30:10 2021 +0530
+
+    Merge branch 'master' of https://github.com/amusenow/dw-etl
+
+[33mcommit 492d269766bee0808c8180657133b2579487a6c9[m
+Author: bhaskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 3 16:29:50 2021 +0530
+
+    updates
+
+[33mcommit fa11adeea8988dfa0fccdf0bd53fefb8e606a83a[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 3 16:24:59 2021 +0530
+
+    Update TRANSACTION_ITEMS_MASTER_DBT.sql
+
+[33mcommit 86ebf845f719446f2eba51cfc9e254a5916db863[m
+Author: anusha-suresh-affine <62099013+anusha-suresh-affine@users.noreply.github.com>
+Date:   Wed Mar 3 16:17:35 2021 +0530
+
+    Update deployment.yml
+
+[33mcommit cf133232062a519dca679e43a7bcfbaaadab9aab[m
+Author: bhaskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 3 16:10:03 2021 +0530
+
+    adding transaction items master
+
+[33mcommit fcd244293eda570dc2d0208e0116b96ed9623c9e[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Wed Mar 3 15:05:40 2021 +0530
+
+    updates
+
+[33mcommit b43cd55052afac59b27ae52f29fa11cf4ff596e4[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Tue Mar 2 18:47:07 2021 +0530
+
+    updated schedule time
+
+[33mcommit 8b19e9f1b29218be892bc59fe8c222abd903e4eb[m
+Merge: 3a5f921 171b966
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Tue Mar 2 13:46:53 2021 +0530
+
+    Merge branch 'master' of https://github.com/amusenow/dw-etl
+
+[33mcommit 3a5f921435f73d92015648b03ef415e926dd31b5[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Tue Mar 2 13:46:11 2021 +0530
+
+    schema changes
+
+[33mcommit 171b966a54221c002e1cdd7c22c1c702ffc3fcd5[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Tue Mar 2 13:28:41 2021 +0530
+
+    Update README.md
+
+[33mcommit 7e6118eeab103e7e0dcbdd93e12c0c5abbc1535b[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Tue Mar 2 13:28:05 2021 +0530
+
+    Rename dbt-deployment.yml to deployment.yml
+
+[33mcommit cd6b620a111201afc3a686638f5bee2c5ca54ad9[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Tue Mar 2 13:16:06 2021 +0530
+
+    Updated
+
+[33mcommit 69832b7f8aa929fafeb9978e23cbbee65d35afb8[m
+Author: bhaskarAA79 <69620093+bhaskarAA79@users.noreply.github.com>
+Date:   Tue Mar 2 13:11:59 2021 +0530
+
+    Add files via upload
+
+[33mcommit 5ba300cb1657f4b98e301a7c63f308ffed7b7a04[m
+Author: baskarAA79 <bhaskar.mondal@affineanalytics.com>
+Date:   Tue Mar 2 13:10:23 2021 +0530
+
+    Initial Commit
