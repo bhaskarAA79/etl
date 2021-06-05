@@ -9,7 +9,7 @@ Try running the following commands:
 
 ### Using the project via Fivetran
 
-Check out the deployment.yml file for configuration details 
+Check out the deployment.yml file for configuration 
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
